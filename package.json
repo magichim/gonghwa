@@ -1,0 +1,11 @@
+{
+  "name": "gonghwa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:magichim/gonghwa.git",
+  "author": "magichim <songwon.bak@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@prettier/plugin-php": "^0.16.1"
+  }
+}
